@@ -1,0 +1,40 @@
+.App {
+  display: flex;
+  font-size: larger;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.main {
+  font-size: 70px;
+  font-weight: lighter;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(155, 153, 157);
+  padding: 1rem;
+}
+.item {
+  font-weight: 300;
+  font-size: 100px;
+  color: #131313;
+}
+.price {
+  font-weight: 40;
+  font-size: 30px;
+  color: #6c6969;
+}
+.itemno {
+  font-weight: 100;
+  font-size: 60px;
+  color: #2e2c2c;
+}
+.box {
+  padding-top: 50px;
+  width: 600px;
+  height: 400px;
+  border: 1px solid rgb(206, 202, 202);
+  margin: 50px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
